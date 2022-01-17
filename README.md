@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there, I'm Egor 👋
 
-<!--
-**ChePchik/ChePchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+ <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChePchik&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+## 🌟 I study programming, testing, design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Language & Stack & Libraries
+
+- NodeJS
+- JavaScript, JQuery, ReactJS ❤️
+- Python
+- PHP
+- SQL, MySQL, PostgreSQL, MongoDB,
+- Bootstarp
+- Exspress
+- Sass
+
+## 🌱 I’m currently learning
+
+- Docker
+
+## 🔭 I'm currently working on 'Platfor for Test'
+
+## 📗 Want to study
+
+- React Native
+- Gatsby
+- GrafQL
+- NextJS
+- Jest
+- PyTest
+- GitHub Action
+
+## ❤️ I love writing React
+
+## 🤔 I'm looking for help with dynamic insertion of data into the DOM elemetn React
+
+## 📫 How to reach me: `rrrrefund@inbox.ru`

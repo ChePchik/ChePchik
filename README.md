@@ -35,6 +35,3 @@
 
 ## ❤️ I love writing React
 
-## 🤔 I'm looking for help with dynamic insertion of data into the DOM elemetn React
-
-## 📫 How to reach me: `rrrrefund@inbox.ru`

@@ -21,7 +21,8 @@
 
 - Docker
 
-## 🔭 I'm currently working on ['Platfor for Test'](pft-server.herokuapp.com/)
+## 🔭 I'm currently working on ['Platfor for Test'](https://pft-server.herokuapp.com/)
+
 
 ## 📗 Want to study
 

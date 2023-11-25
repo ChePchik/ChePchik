@@ -12,24 +12,22 @@
 - JavaScript, JQuery, ReactJS ❤️
 - Python
 - PHP
-- SQL, MySQL, PostgreSQL, MongoDB,
-- Bootstarp
+- SQL, MySQL, PostgreSQL, MongoDB😍,
+- Bootstarp, Tailwind 
 - Exspress
 - Sass
+- Docker
+- GraphQL yoga, Apollo client
 
 ## 🌱 I’m currently learning
 
-- Docker
-
-## 🔭 I'm currently working on ['Platfor for Test'](https://pft-server.herokuapp.com/)
+- Nest
 
 
 ## 📗 Want to study
 
 - React Native
 - Gatsby
-- GrafQL
-- NextJS
 - Jest
 - PyTest
 - GitHub Action

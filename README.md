@@ -9,28 +9,31 @@
 ## 🛠 Language & Stack & Libraries
 
 - NodeJS
-- JavaScript, JQuery, ReactJS ❤️
+- JavaScript, JQuery, ReactJS❤️, Next js 
 - Python
 - PHP
 - SQL, MySQL, PostgreSQL, MongoDB😍,
-- Bootstarp, Tailwind 
+- Bootstarp, Tailwind, Shadcn/ui
 - Exspress
+- Socket.IO, Redux\toolkit
 - Sass
 - Docker
 - GraphQL yoga, Apollo client
 
 ## 🌱 I’m currently learning
 
-- Nest
+- Redis
 
 
-## 📗 Want to study
+## 📗 I want to study
 
 - React Native
 - Gatsby
 - Jest
 - PyTest
-- GitHub Action
+- Nest
+- Analytics
+- Kubernetes
 
 ## ❤️ I love writing React
 

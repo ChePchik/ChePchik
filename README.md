@@ -10,19 +10,19 @@
 
 - NodeJS
 - JavaScript, JQuery, ReactJS❤️, Next js 
-- Python
+- Python, FastAPI
 - PHP
-- SQL, MySQL, PostgreSQL, MongoDB😍,
+- SQL, MySQL, PostgreSQL, MongoDB😍,Redis
 - Bootstarp, Tailwind, Shadcn/ui
-- Exspress
+- Express js, koa
 - Socket.IO, Redux\toolkit
 - Sass
-- Docker
-- GraphQL yoga, Apollo client
+- Docker, Grafana
+- GraphQL yoga, Apollo
 
 ## 🌱 I’m currently learning
 
-- Redis
+- Monitoring
 
 
 ## 📗 I want to study

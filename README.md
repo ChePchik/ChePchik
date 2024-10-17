@@ -13,16 +13,15 @@
 - Python, FastAPI
 - PHP
 - SQL, MySQL, PostgreSQL, MongoDB😍,Redis
-- Bootstarp, Tailwind, Shadcn/ui
-- Express js, koa
+- Bootstarp, Tailwind, Shadcn/ui, SASS
+- Express js, koa, Nest js
 - Socket.IO, Redux\toolkit
-- Sass
 - Docker, Grafana
 - GraphQL yoga, Apollo
 
 ## 🌱 I’m currently learning
 
-- Monitoring
+- Monitoring: Grafana 
 
 
 ## 📗 I want to study
@@ -31,9 +30,9 @@
 - Gatsby
 - Jest
 - PyTest
-- Nest
 - Analytics
 - Kubernetes
+- nx
 
 ## ❤️ I love writing React
 

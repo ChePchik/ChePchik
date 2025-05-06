@@ -4,27 +4,18 @@
  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChePchik&layout=compact"/></a>
 </p>
 
-## 🌟 I study programming, testing, design
+## 🌟 I study programming, System Design, architecture
 
 ## 🛠 Language & Stack & Libraries
 
-- NodeJS
-- JavaScript, JQuery, ReactJS❤️, Next js 
-- Python, FastAPI
-- PHP
-- SQL, MySQL, PostgreSQL, MongoDB😍,Redis
-- Bootstarp, Tailwind, Shadcn/ui, SASS
-- Express js, koa, Nest js
-- Socket.IO, Redux\toolkit
-- Docker, Grafana
-- GraphQL yoga, Apollo
+- **Frontend:** ReactJS❤️, NextJS
+- **Style:** Bootstarp, Tailwind, Shadcn/ui, SASS
+- **Backend:** Node.js, Express.js, NestJS❤️, Django, FastAPI, Python
+- **API:** REST, GraphQL, WebSockets, Socket.IO, RabbitMQ
+- **DB:** MySQL, PostgreSQL, MongoDB😍, Redis
+- **DevOps:** Docker, Ansible, GitHub Actions (CI/CD), Nginx, Grafana, Prometeus, VMware ESXi, VirtualBox
 
-## 🌱 I’m currently learning
-
-- Monitoring: Grafana 
-
-
-## 📗 I want to study
+## 📗 I plan to study
 
 - React Native
 - Gatsby
@@ -34,5 +25,5 @@
 - Kubernetes
 - nx
 
-## ❤️ I love writing React
+## ❤️ I love Full Stack
 
